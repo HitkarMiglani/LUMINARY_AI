@@ -1,4 +1,4 @@
-# ⚖️ LuminaryAI — Complete Documentation
+# ⚖️ LuminaryAI
 
 > **Intelligent Legal Assistant for Indian Law**  
 > Making Indian law understandable, accessible, and intelligent — for lawyers, students, and everyone.
