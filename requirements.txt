@@ -1,0 +1,63 @@
+# Core Framework
+flask
+flask-cors
+gunicorn
+streamlit
+python-dotenv
+psutil
+
+# Agno Framework for Intelligent Agents
+agno
+huggingface_hub
+
+# AI and ML
+langchain
+# langchain-google-genai>=3.0.0
+# google-generativeai
+# Note: pip will automatically resolve compatible google-ai-generativelanguage version
+transformers
+torch
+sentence-transformers
+
+# Document Processing
+pdfminer.six
+docx2txt
+python-docx
+PyPDF2
+
+# OCR (Optional - for image-based PDFs)
+pdf2image
+
+# Database and Storage
+sqlalchemy
+
+# Authentication and Security
+PyJWT
+bcrypt
+cryptography
+
+# API and Requests
+requests
+aiohttp
+
+# Embeddings and Vector DB
+chromadb
+
+# Utilities
+pandas
+numpy
+Pillow
+validators
+
+# Logging and Monitoring
+python-json-logger
+
+# Validation
+pydantic
+pydantic-settings
+
+# Development
+pytest
+black
+flake8
+mypy
