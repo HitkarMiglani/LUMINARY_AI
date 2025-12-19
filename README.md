@@ -5,6 +5,17 @@
 
 ---
 
+# 📺 Quick Demo Video
+
+Watch a complete walkthrough of LuminaryAI in action:
+
+[![LuminaryAI Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1V1l5gcuC3AX3Omxg9PXHiasnlqEYcc-p/view?usp=drivesdk)
+
+https://github.com/user-attachments/assets/3f07e090-c52c-48b9-8575-7e8682968a06
+
+---
+
+
 ## 📚 Table of Contents
 
 1. [Overview & Features](#overview--features)
