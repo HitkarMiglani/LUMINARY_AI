@@ -150,7 +150,7 @@ All through a modern Streamlit frontend and robust Flask backend with **encrypte
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/HitkarMiglani/legal_Test.git
+git clone https://github.com/HitkarMiglani/LUMINARY_AI.git
 cd Agentic_Law_AI
 ```
 
@@ -1453,7 +1453,7 @@ LuminaryAI is an AI-powered research assistant and **should NOT be considered a 
 
 ## 📞 Support & Contact
 
-- **GitHub Issues:** https://github.com/HitkarMiglani/legal_Test/issues
+- **GitHub Issues:** https://github.com/HitkarMiglani/LUMINARY_AI/issues
 - **Documentation:** This file (COMPLETE_DOCUMENTATION.md)
 
 ---
